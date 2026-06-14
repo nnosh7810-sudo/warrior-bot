@@ -1,3 +1,4 @@
-git add requirements.txt
-git commit -m "fix requirements"
-git push
+python-telegram-bot==20.3
+httpx==0.24.1
+anyio==3.7.1
+httpcore==0.17.3
